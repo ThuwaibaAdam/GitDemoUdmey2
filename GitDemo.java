@@ -8,5 +8,9 @@ public class GitDemo {
 		System.out.println("This need disaplain and hard work to grassp");
 		
 	}
+	
+	public static void branchDevelop() {
+		System.out.println("This method written in develop branch");
+	}
 
 }
